@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Javascript 30 Days Challenge** and **Lighthouse Labs Web Development Bootcamp**
 
-- 🌱 I’m currently upgrading **my JS & React.js skills**
+- 🌱 I’m currently upgrading **my JS & backend skills**
 
 - 💡 I'm a Polyglot who speaks **English, French, Chinese & Korean**
 
