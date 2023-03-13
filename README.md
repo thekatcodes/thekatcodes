@@ -31,7 +31,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thekatcodes&show_icons=true&locale=en&layout=compact" alt="thekatcodes" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thekatcodes&show_icons=true&locale=en&layout=compact" alt="thekatcodes" />
 
 </details>
 
