@@ -44,12 +44,12 @@
 
 </details>
 
-<details>
+<!-- <details>
   <summary>:zap: Streak Stats</summary>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thekatcodes&" alt="thekatcodes" />
 
-</details>
+</details> -->
 
 ## 🔗 Let's Connect
 
