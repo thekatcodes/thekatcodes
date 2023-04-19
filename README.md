@@ -2,11 +2,12 @@
 <h3 align="center">Front-End Developer</h3>
 <img align="right" alt="girlcoding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"></img>
 
-- 🔭 I’m currently working on a **[Pokedex app](https://github.com/thekatcodes/pokedex) using Next.js, Tailwind CSS and PokeAPI**
+- 👩🏻‍💻 I’m currently working on **learning Typescript**
+<!-- - a **[Pokedex app](https://github.com/thekatcodes/pokedex) using Next.js, Tailwind CSS and PokeAPI** -->
 
 <!-- **building V2 of my portfolio** -->
 
-- 🌱 I’m currently upgrading **my JS & React skills**
+- 🌱 I’m currently upgrading **my algorithm solving skills**
 
 - 💡 I'm a Polyglot who speaks **English, French, Chinese & Korean**
 
