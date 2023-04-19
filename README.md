@@ -24,7 +24,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/ </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://gorzelinski.com/static/1db41e3ecd311724a15306b270d99dd9/c7f96/next-js-logo.webp" alt="next" width="40" height="40"/> </a> 
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" alt="next" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="html5" width="40" height="40"/> </a>  
