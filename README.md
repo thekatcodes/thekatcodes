@@ -7,7 +7,7 @@
 
 <!-- **building V2 of my portfolio** -->
 
-- 🌱 I’m currently upgrading **my algorithm solving skills**
+<!-- - 🌱 I’m currently upgrading **my algorithm solving skills** -->
 
 - 💡 I'm a Polyglot who speaks **English, French, Chinese & Korean**
 
