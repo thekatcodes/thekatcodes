@@ -10,6 +10,7 @@
 <!-- - 🌱 I’m currently upgrading **my algorithm solving skills** -->
 
 - 💡 I'm a Polyglot who speaks **English, French, Chinese & Korean**
+- 🌱 If I'm not coding, I'm painting, reading, crafting or exercising
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
