@@ -2,12 +2,12 @@
 <h3 align="center">Front-End Developer</h3>
 <img align="right" alt="girlcoding" width="300" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"></img>
 
-- 👩🏻‍💻 I’m currently working on **JavaScript 30 Days challenge** and **building V2 of my portfolio**
+- 👩🏻‍💻 I’m currently working on **building V2 of my portfolio** and **LeetCode 30 days JavaScript challenge**
 <!-- - a **[Pokedex app](https://github.com/thekatcodes/pokedex) using Next.js, Tailwind CSS and PokeAPI** -->
 
 <!-- **building V2 of my portfolio** -->
 
-<!-- - 🌱 I’m currently upgrading **my algorithm solving skills** -->
+<!-- - 🌱 I’m currently  LeetCode 30 days JavaScript challenge -->
 
 - 💡 I'm a Polyglot who speaks **English, French, Chinese & Korean**
 - 🌱 If I'm not coding, I'm painting, reading, crafting or exercising
