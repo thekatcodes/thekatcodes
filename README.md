@@ -40,14 +40,14 @@
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thekatcodes&show_icons=true&locale=en&layout=compact" alt="thekatcodes" />
 
-</details>
+<!-- </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thekatcodes&show_icons=true&locale=en" alt="thekatcodes" />
 
-</details>
+</details> -->
 
 <!-- <details>
   <summary>:zap: Streak Stats</summary>
